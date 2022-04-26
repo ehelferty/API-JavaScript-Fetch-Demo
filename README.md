@@ -1,4 +1,5 @@
-Movie Night API-Fetch Demo w/ JavaScript
+# Movie Night 
+**A fetch API Demo using JavaScript, HTML and CSS**
 
 This website uses the IMDb API (https://imdb-api.com/api) to help the user search for movies by title, or use an advanced search mode that takes certain search parameters
 to generate a list of results to choose from.
